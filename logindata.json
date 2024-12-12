@@ -1,0 +1,21 @@
+[
+{
+   "id":1,
+    "username" : "pavanol1",
+    "password" : "test@123",
+    "url" : "https://www.demoblaze.com/"
+}
+,
+{
+   "id":2,
+    "username" : "pavanol2",
+    "password" : "test@123",
+    "url" : "https://www.demoblaze.com/"
+},
+{
+   "id":3,
+    "username" : "pavanol3",
+    "password" : "test@123",
+    "url" : "https://www.demoblaze.com/"
+}
+]
