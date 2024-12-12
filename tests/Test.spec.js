@@ -4,7 +4,7 @@ import { homepage } from "../pages/homepage.js";
 import { cartpage } from "../pages/cartpage.js";
 const testdata = JSON.parse(JSON.stringify(require("../testdata.json")));
 
-test.only("validate login functionality", async ({ page }) => {
+test("validate login functionality", async ({ page }) => {
   const login = new loginpage(page);
   const home = new homepage(page);
 
